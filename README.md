@@ -1,4 +1,3 @@
-# liverDisorders_project
 # Prediction of Liver Disease  
 Predicting the likelihood of liver disorders using machine learning models trained on medical data.  
 
@@ -39,6 +38,13 @@ After preprocessing and feature selection, models were trained to learn patterns
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score  
 
 ---
+## 👥 Team Members  
+This project was developed collaboratively as part of the **Data Mining course** at **King Saud University**.  
+**Team Members:**  
+- Sirin Al-Humud  
+- Raghad fares  
+- Aeshah almakhlifi  
+- Luluh alyahya  
 
 ## 📈 Results  
 - The trained models achieved strong predictive accuracy, with Random Forest and XGBoost outperforming others.  
