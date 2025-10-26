@@ -3,14 +3,14 @@ Predicting the likelihood of liver disorders using machine learning models train
 
 ---
 
-## 🎯 Overview  
+## Overview  
 Liver diseases represent one of the most serious global health challenges.  
 Early detection plays a crucial role in preventing progression and improving patient outcomes.  
 This project leverages data-driven techniques to analyze medical indicators and classify whether a patient is likely to have a liver disorder.  
 
 ---
 
-## 🧠 Objectives  
+## Objectives  
 - Identify key medical attributes associated with liver disorders.  
 - Build predictive models capable of distinguishing between healthy and affected patients.  
 - Compare multiple algorithms to evaluate performance and reliability.  
@@ -18,7 +18,7 @@ This project leverages data-driven techniques to analyze medical indicators and 
 
 ---
 
-## 🧩 Dataset  
+## Dataset  
 The dataset consists of clinical parameters such as age, gender, enzyme levels, and bilirubin measures.  
 After preprocessing and feature selection, models were trained to learn patterns linked to liver abnormalities.  
 
@@ -30,7 +30,7 @@ After preprocessing and feature selection, models were trained to learn patterns
 
 ---
 
-## ⚙️ Tools & Technologies  
+## Tools & Technologies  
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib  
 - **Models Implemented:** Logistic Regression, Random Forest, SVM, XGBoost  
@@ -39,15 +39,15 @@ After preprocessing and feature selection, models were trained to learn patterns
 
 ---
 
-## 📈 Results  
+## Results  
 - The trained models achieved strong predictive accuracy, with Random Forest and XGBoost outperforming others.  
 - Analysis revealed that attributes such as *Total Bilirubin*, *Alkaline Phosphatase*, and *Albumin* were strong indicators of liver health.  
 - Visualizations and performance metrics confirmed the model’s potential for supporting early screening processes.
 
 ---
-## 👥 Team Members  
-This project was developed collaboratively as part of the **Data Mining course** at **King Saud University**.  
-**Team Members:**  
+## Team Members  
+This project was developed collaboratively as part of the Data Mining course at King Saud University.  
+Team Members: 
 - Sirin Al-Humud  
 - Raghad fares  
 - Aeshah almakhlifi  
