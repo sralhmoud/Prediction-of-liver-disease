@@ -38,15 +38,17 @@ After preprocessing and feature selection, models were trained to learn patterns
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score  
 
 ---
+
+## 📈 Results  
+- The trained models achieved strong predictive accuracy, with Random Forest and XGBoost outperforming others.  
+- Analysis revealed that attributes such as *Total Bilirubin*, *Alkaline Phosphatase*, and *Albumin* were strong indicators of liver health.  
+- Visualizations and performance metrics confirmed the model’s potential for supporting early screening processes.
+
+---
 ## 👥 Team Members  
 This project was developed collaboratively as part of the **Data Mining course** at **King Saud University**.  
 **Team Members:**  
 - Sirin Al-Humud  
 - Raghad fares  
 - Aeshah almakhlifi  
-- Luluh alyahya  
-
-## 📈 Results  
-- The trained models achieved strong predictive accuracy, with Random Forest and XGBoost outperforming others.  
-- Analysis revealed that attributes such as *Total Bilirubin*, *Alkaline Phosphatase*, and *Albumin* were strong indicators of liver health.  
-- Visualizations and performance metrics confirmed the model’s potential for supporting early screening processes. 
+- Luluh alyahya 
